@@ -1,2 +1,4 @@
 Comandos secundarios de git
 
+-Primeiro Comando
+-Segundo Comando
