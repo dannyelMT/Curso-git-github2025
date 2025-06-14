@@ -5,3 +5,8 @@ Comandos secundarios de git
 
 #Comandos mais genéricos
 - Comandos estranhos
+
+#Mais Comandos
+-Comando A
+-Comando B
+-Comando C
