@@ -1,8 +1,8 @@
-git init .   -> Cria um repositorio git na pasta atual
-git status   -> mostra o status do trabalho
-git add nome_arquivo     -> adiciona arquivo para ser commitado
-git Commit -m "msg" -> Faz commit do que estava para ser commitado
-git log      -> mostra todo historico de Commit
+git init .   		-> Cria um repositorio git na pasta atual.
+git status   		-> Mostra o status do trabalho.
+git add nome_arquivo    -> Adiciona arquivo para ser commitado.
+git Commit -m "msg" 	-> Faz commit do que estava para ser commitado.
+git log      		-> Mostra todo historico de Commit.
 
 ## FLUXO DE TRABALHO
 1. criar o diretório (pasta) do projeto
