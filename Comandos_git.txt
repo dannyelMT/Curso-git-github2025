@@ -4,6 +4,8 @@ Git add nome_arquivo    -> Adiciona arquivo para ser commitado.
 Git Commit -m "msg" 	-> Faz commit do que estava para ser commitado.
 Git log      		-> Mostra todo historico de Commit.
 
+ADD Teste
+
 ## FLUXO DE TRABALHO
 1. criar o diretório (pasta) do projeto
 2. iniciar o git dentro do diretório criado (git init .)
