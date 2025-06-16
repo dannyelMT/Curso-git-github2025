@@ -6,6 +6,8 @@ Além disso, vamos trabalhar com GitFlow ao final do curso e Visual Studio Code.
 
 Esse e um curso que está no youtube no teo me
 
+teste
+teste
 
 # Participantes
 
