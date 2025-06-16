@@ -6,4 +6,7 @@ Além disso, vamos trabalhar com GitFlow ao final do curso e Visual Studio Code.
 
 # Participantes
 
--Dannyel
+-Dannye
+-pessoa2
+-Pessoa3
+-pessoa4
